@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TD3MobileApp</string>
+    <string name="login">Login</string>
+    <string name="id">ID</string>
+    <string name="validate">VALIDATE</string>
+    <string name="currency">Currency:</string>
+    <string name="iban">IBAN:</string>
+    <string name="ammount">Ammount:</string>
+    <string name="account_name">Account name</string>
+    <string name="last_name">Last name:</string>
+    <string name="name">Name:</string>
+    <string name="account_id">Account ID:</string>
+    <string name="off_line_mode">OFF LINE MODE</string>
+    <string name="refresh">REFRESH</string>
+</resources>
